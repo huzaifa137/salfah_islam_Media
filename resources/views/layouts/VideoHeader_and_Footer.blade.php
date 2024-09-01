@@ -10,7 +10,7 @@
         <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
 
         <!-- Title -->
-        <title>..:: Sunnah Islam Media ::..</title>
+        <title>..:: Salfah Islam Media  ::..</title>
 
         <!-- Favicon -->
         <link href="/assets/images/libraria-logo-v3.png" rel="icon" type="image/x-icon" />
@@ -209,7 +209,7 @@
                                 <section class="search-filters">
                                     <div class="container">
                                         <div class="filter-box">
-                                            <h3>What are you looking for from Sunnah Islam Media ?</h3>
+                                            <h3>What are you looking for from Salfah Islam Media  ?</h3>
                                             <form action="{{route('search-bar-video')}}" method="get">
                                                 {{-- @csrf --}}
                                                 <div class="col-md-4 col-sm-6">
@@ -406,7 +406,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6 widget-container">
                     <div id="text-2" class="widget widget_text">
-                        <h3 class="footer-widget-title">About &nbsp; Sunnah Islam Media</h3>
+                        <h3 class="footer-widget-title">About &nbsp; Salfah Islam Media </h3>
                         <span class="underline left"></span>
                         <div class="textwidget" style="text-align: justify">
                             We ask your Du’a for the Ulama, Scholars, Students of Knowledge, Authors and Speakers whose works have been posted on this website, and for us. May Allah سُبْحَانَهُۥ وَتَعَالَىٰ make this website beneficial for all.                         </div>
